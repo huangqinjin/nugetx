@@ -10,7 +10,22 @@
 | **3**  | Install Newer Version Success |
 | **4**  | Install Older Version Success |
 
-## 5.10.0
+
+## 6.0.0
+
+| X | C | S | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|---|
+| N | N | N | Y | Y | Y | Y |
+| N | N | Y | Y | Y | Y | Y |
+| N | Y | N | Y | Y | Y | Y |
+| N | Y | Y | Y | Y | Y | Y |
+| Y | N | N | Y | Y | Y | N |
+| Y | N | Y | Y | Y | N | N |
+| Y | Y | N | Y | Y | N | N |
+| Y | Y | Y | Y | Y | N | N |
+
+
+## 5.11.0
 
 | X | C | S | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|---|---|
